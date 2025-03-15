@@ -5,7 +5,7 @@ This bot is a template for an easy start of working with the **aiogram** 3.x and
 # Easy start
 📥**Just clone the repository:**
 ```bash
-git clone https://github.com/menzo2612/Sample_aiogram_bot.git
+git clone https://github.com/menzo2612/Example_aiogram_bot.git
 ```
 ---
 📥**Create and activate your virtual environment:**
